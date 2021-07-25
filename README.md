@@ -1,13 +1,11 @@
 ## Hi there 👋🏼
-### I'm Aiman, a software engineering student from National University of Malaysia 👨🏻‍💻🇲🇾
-![](https://komarev.com/ghpvc/?username=aimamabdollah)
-
+#### I'm Aiman, a software engineering student from National University of Malaysia 👨🏻‍💻🇲🇾
 
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Laravel as PHP backend framework 
-- 📫 Can contact me by [email](aimanabdollah@gmail.com)
+- 📫 Feel free to reach me at aimanabdollah@gmail.com
 
 ## Skills
 #### Programming/Scripting Language
@@ -23,7 +21,7 @@
 
 ## My GitHub Stats
 [![Aimam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimanabdollah)](https://github.com/aimanabdollah/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aimanabdollah&show_icons=true&locale=en&layout=compact" alt="aimanabdollah" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aimanabdollah&show_icons=true&locale=en&layout=compact" alt="aimanabdollah" /></p>-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanabdollah&" alt="aimanabdollah" /></p>
 
 ### Connect with me
