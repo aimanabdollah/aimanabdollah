@@ -3,8 +3,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Laravel as PHP backend framework 
+
+- 🌱 I’m currently learning web development by using PHP
 - 📫 Feel free to reach me at aimanabdollah@gmail.com
 
 ## Skills
