@@ -1,11 +1,12 @@
-## Hi! I'm Aiman 👋🏼
-#### A software engineering student from National University of Malaysia 👨🏻‍💻🇲🇾
+## Hi! I'm Aiman <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+#### A Software Engineering Student from National University of Malaysia (UKM) 👨🏻‍💻🇲🇾
 
 <!-- Here are some ideas to get you started: -->
 
 
-- 🌱 I'm currently learning on web development, cloud computing and ui/ux design
-- 📫 Feel free to reach me at aimanabdollah@gmail.com
+- 🌱 I'm currently learning on web/mobile development, cloud computing and ui/ux design
+- 📫 Feel free to connect me at <a href="https://my.linkedin.com/in/aimanabdollah">LinkedIn 
+
 
 ## Skills
 #### Programming/Scripting Language
@@ -24,7 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanabdollah&" alt="aimanabdollah" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanabdollah&show_icons=true&locale=en" alt="aimanabdollah" /></p>
 
-### Connect with me
+### Social Media
 <p align="left">
 <a href="https://twitter.com/_amuhdaiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aimanabdollah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaa" height="30" width="40" /></a>
