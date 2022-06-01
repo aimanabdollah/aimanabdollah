@@ -1,10 +1,10 @@
-## Hi! I'm Aiman <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello! I'm Aiman 👋🏻
 #### A Software Engineering Student from National University of Malaysia (UKM) 👨🏻‍💻🇲🇾
 
 <!-- Here are some ideas to get you started: -->
 
 
-- 🌱 I'm currently learning on web/mobile development, cloud computing and ui/ux design
+- 🌱 I'm currently learning on web/app development, cloud computing and ui/ux design
 - 📫 Feel free to connect me at <a href="https://my.linkedin.com/in/aimanabdollah">LinkedIn 
 
 
