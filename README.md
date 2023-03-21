@@ -4,7 +4,7 @@
 <!-- Here are some ideas to get you started: -->
 
 
-- 🌱 Currently I'm doing my internship as a Software Engineer Intern with focusing on automation solution industry
+
 - 📫 Feel free to connect me at <a href="https://my.linkedin.com/in/aimanabdollah">LinkedIn 
 
 
